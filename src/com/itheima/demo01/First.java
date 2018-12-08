@@ -6,6 +6,8 @@ public class First {
         System.out.println("hello krystal");
     }
 
-
+    public void test(){
+        System.out.println("hello jessica");
+    }
 
 }
